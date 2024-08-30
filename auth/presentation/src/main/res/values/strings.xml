@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ezcoach">Ez Coach</string>
+    <string name="login">Login</string>
+    <string name="youre_logged_in">You are now logged in!</string>
+</resources>
